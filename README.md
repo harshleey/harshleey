@@ -24,12 +24,12 @@ I am currently studying to be a full-stack software engineer.
 <br><br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suniti0804&theme=tokyonight)](https://git.io/streak-stats)  --->
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=suniti0804&show_icons=true&theme=tokyonight" alt="suniti0804" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshleey&show_icons=true&theme=tokyonight" alt="harshleey" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshleey&show_icons=true&theme=tokyonight_duo" alt="suniti0804" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshleey&show_icons=true&theme=tokyonight_duo" alt="harshleey" /></p>
 
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Suniti's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshleey&theme=react-dark)](https://github.com/suniti0804/github-readme-activity-graph)
+[![Suniti's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshleey&theme=react-dark)](https://github.com/harshleey/github-readme-activity-graph)
 
 
 
