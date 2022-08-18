@@ -1,5 +1,10 @@
 ### Hi there 👋, Wonuola Adekunle
-I am currently studying to be a full-stack software engineer. 
+Innovative and dynamic software engineer who excels in back-end applications. Proven track record of envisioning
+and implementing successful full stack web applications. Remote developer looking for a company that encourages
+continual self-growth.
+Title: Software Engineer @ 100devs
+Location: Lagos, Nigeria.
+Portfolio: https://wonuola-dev.netlify.app
 <img align="right" width="400" height="400" margin-top="20px" src="https://camo.githubusercontent.com/d566b9da794c29a25c65e4d94b162c4b3fa7638c40b3ea651d7e579ce36b3d99/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3566343032613964346531323162376638353062343337342f313539383034303830353431392d5149455a4946344b4c51415042305656364235382f4170702d446576656c6f7065722e6769663f666f726d61743d3130303077">
 
 <h3 align="left">Languages and Tools:</h3>
